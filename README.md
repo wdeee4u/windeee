@@ -10,7 +10,7 @@ I am currently working on Core Java.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=windeee&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![]'कर्म करो, फल की चिंता मत करो।' - श्री कृष्ण
 
 # Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=windeee&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
